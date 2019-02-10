@@ -1,2 +1,2 @@
-# taeho-go
+# go-taeho
 > go lib for taeho.io
