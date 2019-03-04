@@ -1,4 +1,4 @@
-module github.com/taeho-io/taeho-go
+module github.com/taeho-io/go-taeho
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
